@@ -1,3 +1,3 @@
-# The-Nassau-Gang
+# The-Nassau-Code
 
-Curious Github Profiles - coming soon
+Relevant international regulations about cybersecurity/ip/privacy - coming soon
